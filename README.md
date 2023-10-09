@@ -7,7 +7,7 @@ YouTube Data Harvesting and Warehousing using streamlit
 * This project extracts the particular youtube channel data by using the youtube channel id, processes the data, and stores it in the MongoDB database. It has the option to migrate the data to PSQL from MongoDB then analyse the data and give the results depending on the customer questions.
 
 
-![Intro GUI](YouTube Data API Project/YouTube Project OutPut/extrack output data.png)
+![Intro GUI](https://github.com/ThanlakshmiM/YouTube-Data-Harvesting-and-Warehousing_using_streamlit/blob/main/YouTube%20Data%20API%20Project/YouTube%20Project%20OutPut/extrack%20output%20data.png)
 
 
 ## Developer Guide 
